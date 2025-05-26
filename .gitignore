@@ -10,3 +10,4 @@ wheels/
 .venv
 
 /.quarto/
+.vscode/settings.json
