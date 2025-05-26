@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "holisticbi.com",
+    "section": "",
+    "text": "matplotlib demo\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 25, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 22, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hi, I’m Caleb.",
+    "section": "",
+    "text": "My passion is creating consensus by architecting and developing enterprise-scale, end-to-end analytical solutions."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "Hi, I’m Caleb.",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\n\n\n\n\nTool / Language\nUsed Since\nSkill Level\nComment\n\n\n\n\n  Power BITabular semantic modeling, Power Query, DAX, paginated reports, dedicated capacity optimization\n2018\n⭐⭐⭐⭐Expert\n\n\n\n  SQLT-SQL, Azure SQL DB, SQL Server, SSAS, SSRS\n2018\n⭐⭐⭐Advanced\n\n\n\n  Azure Data Engineering StackAzure Data Factory, Azure Functions, Azure Logic Apps, Azure Storage\n2022\n⭐⭐Intermediate\n\n\n\n  PythonGeneral scripting, API calls, data transformation, notebooks\n2023\n⭐⭐Intermediate\n\n\n\n  DatabricksData engineering workflows, Delta Lake, PySpark, Spark SQL\n2023\n⭐⭐Intermediate\n\n\n\n  Microsoft FabricOneLake, Notebooks, Pipelines, Dataflow Gen2, PySpark, Spark SQL\n2024\n⭐⭐Intermediate\n\n\n\n  ExcelPower Query, Power Pivot, table & array operations, visuals\n2009\n⭐⭐⭐⭐Expert\n\n\n\n  Git\n2022\n⭐⭐Intermediate\n\n\n\n  OSIsoft PI Data Historian SuitePI Asset Framework, PI Data Archive, PI Vision, PI OLEDB\n2012\n⭐⭐⭐Advanced\n\n\n\n  MSFT Office AppsOneNote, Outlook, PowerPoint, SharePoint, Teams, Word, Visio\n2009\n⭐⭐⭐⭐Expert"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "Hi, I’m Caleb.",
+    "section": "Work Experience",
+    "text": "Work Experience\n\n\n\nEmployer\nRole\nLocation\nDates\n\n\n\n\nCollectiv\nAnalytics Consultant(Contract)\nRemote,USA\nApr 2022to Present\n\n\nUtah Transit Authority\nBusiness Analyst& Power BI Developer\nSalt Lake,Utah\nJan 2022to Apr 2022(4mo)\n\n\nChevron\nRefinery Planning Analyst& Power BI Developer\nSalt Lake,Utah\nMay 2020to Dec 2021(1yr, 8mo)\n\n\nChevron\nRefinery Tier 3 Gasoline Specialist& Power BI Developer\nSalt Lake,Utah\nSep 2019to Apr 2020(8mo)\n\n\nChevron\nRefinery Process Engineer\nSalt Lake,Utah\nMar 2016to Aug 2019(3yr, 6mo)\n\n\nChevron\nRefinery Process Engineer\nPascagoula, Mississippi\nJun 2012to Feb 2016(3yr, 9mo)"
+  },
+  {
+    "objectID": "about.html#education-certifications",
+    "href": "about.html#education-certifications",
+    "title": "Hi, I’m Caleb.",
+    "section": "Education & Certifications",
+    "text": "Education & Certifications\n   Mississippi State University\n\n\n\n\n\n\nBachelor of Science, Chemc:Engineering\n\n\n\nMay 2012Minor in Mathematics; magna cum laude (GPA: 3.7/4.0).\n\n\n   Microsoft\n\n\n\n\n\n\nMicrosoft Certified: Fabric Data Engineer Associate\n\n\n\nFeb 2025Certification Details\n\n\n\n\n\n\n\n\nMicrosoft Certified: Power BI Data Analyst Associate\n\n\n\nApr 2022Certification Details"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\ntitle: “matplotlib demo” format: html: code-fold: true jupyter: python3 —\nFor a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
+  }
+]

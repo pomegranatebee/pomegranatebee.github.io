@@ -22,5 +22,5 @@ format:
     fontsize: medium
     css: styles.css
 
-
+jupyter: .venv/Scripts/python
 
