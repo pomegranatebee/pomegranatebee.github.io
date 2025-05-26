@@ -1,5 +1,5 @@
 ---
-title: "pomegranatebee.github.io"
+title: "holisticbi.com"
 listing:
   contents: posts
   sort: "date desc"
