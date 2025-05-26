@@ -1,7 +1,7 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
-date: "2025-05-25"
+author: "Caleb Kirsch"
+date: "2025-05-26"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---

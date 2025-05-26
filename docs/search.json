@@ -2,7 +2,7 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Welcome to my blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "holisticbi.com",
     "section": "",
-    "text": "matplotlib demo\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 25, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 22, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "matplotlib demo\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 26, 2025\n\n\nCaleb Kirsch\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 26, 2025\n\n\nCaleb Kirsch\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
