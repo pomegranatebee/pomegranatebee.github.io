@@ -18,8 +18,8 @@ website:
 format:
   html:
     theme:
-      dark: lux
-      light: lux
+      dark: darkly
+      light: flatly
     fontsize: medium
     css: styles.css
 
