@@ -13,7 +13,7 @@ website:
         href: https://github.com/pomegranatebee/
   page-footer:
     left: |
-      *This website is built with [![](assets/logo-quarto.png){width=80px}](https://quarto.org/) and hosted via [GitHub Pages](https://github.com/pomegranatebee/pomegranatebee.github.io)*
+      *This website is built with [Quarto](https://quarto.org/) and hosted via [GitHub Pages](https://github.com/pomegranatebee/pomegranatebee.github.io)*
 format:
   html:
     theme:
