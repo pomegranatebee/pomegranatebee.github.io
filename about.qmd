@@ -1,19 +1,63 @@
 ---
-title: "About"
-image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
-
+title: "Hi, I'm Caleb."
+subtitle: "*Business Intelligence Architect&nbsp;&nbsp;/&nbsp;&nbsp;Analytics Developer&nbsp;&nbsp;/&nbsp;&nbsp;Process Engineer*"
+from: markdown+emoji
 ---
 
-About this blog
+::: {layout-ncol=3 layout-valign="center"}
+![](assets/headshot.jpg){width="300px" fig-align="center"}
+
+[![](assets/PBI certification.png){width="150px" fig-align="center"}](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/D57A5910AA58C346?sharingId=A6D55676D6A0E5ED){target="_blank"}
+
+[![](assets/Fabric certification.png){width="150px" fig-align="center"}](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/2CA819CFCAA147C2?sharingId=A6D55676D6A0E5ED){target="_blank"}
+:::
+
+My passion is creating consensus by architecting and developing enterprise-scale, end-to-end analytical solutions.
+
+## Skills
+
+|Tool / Language|Used Since|Skill Level|Comment|
+|:------------|:---:|:---:|
+|![](assets/Power BI logo.png){width=20px}&nbsp;&nbsp;**Power BI**<br/>*Tabular semantic modeling, Power Query, DAX, paginated reports, dedicated capacity optimization*|2018|:star::star::star::star:<br/>Expert
+|![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, Azure SQL DB, SQL Server, SSAS, SSRS*|2018|:star::star::star:<br/>Advanced
+|![](assets/Azure Logo.png){width=20px}&nbsp;&nbsp;**Azure Data Engineering Stack**<br/>*Azure Data Factory, Azure Functions, Azure Logic Apps, Azure Storage*|2022|:star::star:<br/>Intermediate
+|![](assets/Python logo.png){width=20px}&nbsp;&nbsp;**Python**<br/>*General scripting, API calls, data transformation, notebooks*|2023|:star::star:<br/>Intermediate
+|![](assets/Databricks logo.png){width=20px}&nbsp;&nbsp;**Databricks**<br/>*Data engineering workflows, Delta Lake, PySpark, Spark SQL*|2023|:star::star:<br/>Intermediate
+|![](assets/Fabric logo.png){width=20px}&nbsp;&nbsp;**Microsoft Fabric**<br/>*OneLake, Notebooks, Pipelines, Dataflow Gen2, PySpark, Spark SQL*|2024|:star::star:<br/>Intermediate
+|![](assets/Excel logo.png){width=20px}&nbsp;&nbsp;**Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert
+|![](assets/Git logo.png){width=20px}&nbsp;&nbsp;**Git**|2022|:star::star:<br/>Intermediate
+|![](assets/OSIsoft logo.png){width=20px}&nbsp;&nbsp;**OSIsoft PI Data Historian Suite**<br/>*PI Asset Framework, PI Data Archive, PI Vision, PI OLEDB*|2012|:star::star::star:<br/>Advanced
+|![](assets/Microsoft Logo.png){width=20px}&nbsp;&nbsp;**MSFT Office Apps**<br/>*OneNote, Outlook, PowerPoint, SharePoint, Teams, Word, Visio*|2009|:star::star::star::star:<br/>Expert
+
+## Work Experience
+
+|Employer|Role|Location|Dates|
+|:----:|:------------|:----:|:----:|
+|[![](assets/Collectiv logo.png){width=50px}](https://gocollectiv.com/){target="_blank"}<br/>Collectiv|**Analytics Consultant<br/>***(Contract)*|Remote,<br/>USA|Apr 2022<br/>to Present|
+|![](assets/UTA logo.png){width=50px}<br/>Utah Transit Authority|**Business Analyst<br/>& Power BI Developer**|Salt Lake,<br/>Utah|Jan 2022<br/>to Apr 2022<br/>(4mo)|
+|![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Planning Analyst<br/>& Power BI Developer**|Salt Lake,<br/>Utah|May 2020<br/>to Dec 2021<br/>(1yr, 8mo)|
+|![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Tier 3 Gasoline Specialist<br/>& Power BI Developer**|Salt Lake,<br/>Utah|Sep 2019<br/>to Apr 2020<br/>(8mo)|
+|![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Process Engineer**|Salt Lake,<br/>Utah|Mar 2016<br/>to Aug 2019<br/>(3yr, 6mo)|
+|![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Process Engineer**|Pascagoula,<br/> Mississippi|Jun 2012<br/>to Feb 2016<br/>(3yr, 9mo)|
+
+## Education & Certifications
+
+![](assets/Mississippi State logo.png){width=40px}&nbsp;&nbsp;&nbsp;**Mississippi State University**
+
+:::{.callout-note}
+## Bachelor of Science, Chemical Engineering
+*May 2012*<br/>Minor in Mathematics; *magna cum laude* (GPA: 3.7/4.0).
+:::
+
+![](assets/Microsoft logo.png){width=40px}&nbsp;&nbsp;&nbsp;**Microsoft**
+
+:::{.callout-note}
+## Microsoft Certified: Fabric Data Engineer Associate
+*Feb 2025*<br/>[Certification Details](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/2CA819CFCAA147C2?sharingId=A6D55676D6A0E5ED){target="_blank"}
+:::
+
+
+:::{.callout-note}
+## Microsoft Certified: Power BI Data Analyst Associate
+*Apr 2022*<br/>[Certification Details](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/D57A5910AA58C346?sharingId=A6D55676D6A0E5ED){target="_blank"}
+:::
