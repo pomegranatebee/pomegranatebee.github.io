@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Caleb."
+title: "About."
 subtitle: "*Business Intelligence Architect&nbsp;&nbsp;/&nbsp;&nbsp;Analytics Developer&nbsp;&nbsp;/&nbsp;&nbsp;Process Engineer*"
 from: markdown+emoji
 ---
@@ -7,7 +7,7 @@ from: markdown+emoji
 ::: {layout-ncol=3 layout-valign="center"}
 ![](assets/headshot.jpg){width="300px" fig-align="center"}
 
-[![](assets/cert-powerbipng){width="150px" fig-align="center"}](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/D57A5910AA58C346?sharingId=A6D55676D6A0E5ED){target="_blank"}
+[![](assets/cert-powerbi.png){width="150px" fig-align="center"}](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/D57A5910AA58C346?sharingId=A6D55676D6A0E5ED){target="_blank"}
 
 [![](assets/cert-fabric.png){width="150px" fig-align="center"}](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/2CA819CFCAA147C2?sharingId=A6D55676D6A0E5ED){target="_blank"}
 :::
@@ -27,7 +27,7 @@ My passion is creating consensus by architecting and developing enterprise-scale
 |![](assets/logo-excel.png){width=20px}&nbsp;&nbsp;**Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert
 |![](assets/logo-git.png){width=20px}&nbsp;&nbsp;**Git**|2022|:star::star:<br/>Intermediate
 |![](assets/logo-osisoft.png){width=20px}&nbsp;&nbsp;**OSIsoft PI Data Historian Suite**<br/>*PI Asset Framework, PI Data Archive, PI Vision, PI OLEDB*|2012|:star::star::star:<br/>Advanced
-|![](assets/logo-micrososft.png){width=20px}&nbsp;&nbsp;**MSFT Office Apps**<br/>*OneNote, Outlook, PowerPoint, SharePoint, Teams, Word, Visio*|2009|:star::star::star::star:<br/>Expert
+|![](assets/logo-microsoft.png){width=20px}&nbsp;&nbsp;**MSFT Office Apps**<br/>*OneNote, Outlook, PowerPoint, SharePoint, Teams, Word, Visio*|2009|:star::star::star::star:<br/>Expert
 
 ## Work Experience
 
