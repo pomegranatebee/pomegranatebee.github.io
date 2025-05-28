@@ -1,7 +1,7 @@
 [project]
 name = "pomegranatebee-github-io"
 version = "0.1.0"
-description = "Add your description here"
+description = "Caleb Kirsch portfolio and blog"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = []
